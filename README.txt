@@ -1,6 +1,10 @@
 Title: Permutation Pattern Avoidance
 Ownership: Abigail Liskey, Karina Bekova, Dr. Brant Jones
-Course/Project: Web Design II
+	generate_vectors.py - Abigail Liskey
+	level_vectors.py - Abigail Liskey
+	fastscope.py - Karina Liskey
+	scope.py - Abigail Liskey and Karina Bekova
+Course/Project: Undergraduate Mathematics Research
 University/Institution: James Madison University
 Written in: Python
 Created: 2014
